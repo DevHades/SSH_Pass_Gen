@@ -1,7 +1,7 @@
 # Warning
 I do *not* take responsibility for what may happen to your system. This is at your own risk. Remeber, computer generated passwords are not always the best. 
 
-# SSH Pass/Strong Pass Gen
+# SSH Password Generator 
 
 Script to create SSH Passwords
 # How To Run the SSH_Pass.py file
