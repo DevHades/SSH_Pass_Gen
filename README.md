@@ -3,7 +3,7 @@ I do *not* take responsibility for what may happen to your system. This is at yo
 
 # SSH Pass/Strong Pass Gen
 
-Script/Utility/Application to create SSH/Strong Passwords
+Script to create SSH Passwords
 # How To Run the SSH_Pass.py file
 
 1) Download the py file
