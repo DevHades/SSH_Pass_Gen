@@ -1,5 +1,5 @@
 # Warning
-I do *not* take responsibility for what may happen to your system. This is at your own risk.
+I do *not* take responsibility for what may happen to your system. This is at your own risk. Remeber, computer generated passwords are not always the best. 
 
 # SSH Pass/Strong Pass Gen
 
